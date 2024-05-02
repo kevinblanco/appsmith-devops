@@ -1,0 +1,9 @@
+{
+    "data": {
+        "type": "tags",
+        "id": "{{this.params.tagid}}",
+        "attributes": {
+            "description": "{{this.params.description}}"
+        }
+    }
+}
