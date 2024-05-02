@@ -16,7 +16,7 @@
     "pageId": "Page1",
     "collectionId": "Page1_updateTags",
     "actionConfiguration": {
-      "timeoutInMillisecond": 10000,
+      "timeoutInMillisecond": 0,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
@@ -35,9 +35,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-05-02T17:10:49Z"
+    "createdAt": "2024-05-02T17:17:52Z"
   },
   "id": "Page1_updateTags.executeWorkflow",
   "deleted": false,
-  "gitSyncId": "6633c91874af28656a9c4bef_580145a6-1e93-4c68-a8e9-ab3ab6bb56df"
+  "gitSyncId": "6633cabe74af28656a9c4c87_7208120e-67cb-4942-9658-d65e59acfe76"
 }
