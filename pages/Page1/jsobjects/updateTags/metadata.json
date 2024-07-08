@@ -1,20 +1,16 @@
 {
+  "gitSyncId": "663009ac7b88926862ba36b5_44e7df8b-4937-4da9-8322-b8c4c20e2a3f",
+  "id": "Page1_updateTags",
   "unpublishedCollection": {
     "name": "updateTags",
     "pageId": "Page1",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
     "variables": [
       {
         "name": "tags",
         "value": "[]"
       }
-    ],
-    "userPermissions": []
-  },
-  "id": "Page1_updateTags",
-  "deleted": false,
-  "gitSyncId": "663009ac7b88926862ba36b5_44e7df8b-4937-4da9-8322-b8c4c20e2a3f"
+    ]
+  }
 }
